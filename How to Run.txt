@@ -1,0 +1,13 @@
+Note: This isn't a launchable app, so If you don't know I'll tell you how to launch it.
+
+Also Note: Run the file that has the .jar exstension in the cmd, run the others in your IDE.
+
+How to launch it: #1. Go to the Window search bar and type in cmd.
+
+		  #2. This will open the command prompt. Now go to the folder with the program in and copy it's folder's address.
+
+		  #3. type in cd in the prompt, then space, then paste your folder's address. Then click enter
+
+		  #4. now type java, then space, then -jar and then another space, and then the program's name and exstension(i.e. BasicCalculator.jar).
+
+		  #5. It should run now!
